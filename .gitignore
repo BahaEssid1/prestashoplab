@@ -1,0 +1,21 @@
+# PrestaShop cache
+/var/cache/
+
+# Logs
+/var/logs/
+
+# Backups, zip files
+*.zip
+
+# Node modules
+/node_modules/
+
+# Vendor dependencies
+/vendor/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
